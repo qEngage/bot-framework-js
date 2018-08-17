@@ -1,9 +1,11 @@
 qEngage Bot Framework
 =====================
 
+qEngage is a Growth Bot Framework for Driving Engagement in Groups. We are building bots across platforms such as telegram, line, whatsapp, reddit, slack and kakaotalk.
+
 ![alt text](resources/logo@2x.png)
 
-Bot Framework for Driving Engagement in Groups. Written in Javascript
+> The qEngage Logo
 
 ## Concept
 The qEngage concept in detail is explained in [this](https://medium.com/qengage/qengage-core-features-and-concept-map-ce063ef1185f) medium post. Here is a short explanation
@@ -13,7 +15,7 @@ We’re essentially a community bot framework. Our pitch is that we enable and h
 
 ![alt text](resources/concept@3x.png)
 
-<sub><sup>The qEngage Concept</sup></sub>
+> The qEngage Concept
 
 #### Core Functions
 Once our bot is added to the group, it will serve the following functions.
@@ -28,17 +30,17 @@ The BOT also does two things. It deducts any unspent tokens from user’s accoun
 ## Interface
 qEngage Bot Framework supports following commands:
 
-### Commands that user can issue
+#### Commands that user can issue
 
-- Commands that work in groups
+Commands that work in groups
 * `/tip @user <amount>`  - tip a user with specified token amount
 * `/upvote <amount>` - reply to any message in your chat. Tips the creator with specified amount.
 
-- Commands that work in DMs
+Commands that work in DMs
 * `/balance` - this will show your current balance
 * `/redeem <amount>` - to redeem tokens in exchange of bounty after specified date
 
-### Commands that admin can issue
+#### Commands that admin can issue
 
 Admin commands can work only in DMs
 
@@ -52,9 +54,9 @@ Admin commands can work only in DMs
 
 ## Planned features
 
-- [] Additional user commands.
-- [] Spec out different modules for platforms.
-- [] Start implementation on telegram.
+- [ ] Additional user commands.
+- [ ] Spec out different modules for platforms.
+- [ ] Start implementation on telegram.
 
 ## Pricing and Support
  For pricing and support email tejnikumbh.competitions@gmail.com
