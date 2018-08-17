@@ -1,7 +1,7 @@
 qEngage Bot Framework
 =====================
 
-![alt text](resources/logo.png)
+![alt text](resources/logo@2x.png)
 
 Bot Framework for Driving Engagement in Groups. Written in Javascript
 
