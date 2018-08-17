@@ -13,6 +13,8 @@ We’re essentially a community bot framework. Our pitch is that we enable and h
 
 ![alt text](resources/concept@3x.png)
 
+Concept demonstrating concept of qEngage
+
 #### Core Functions
 Once our bot is added to the group, it will serve the following functions.
 1. Allow for tipping other users and content
