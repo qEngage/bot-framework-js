@@ -1,11 +1,10 @@
 qEngage Bot Framework
 =====================
 
+<img src="resources/logo_New.png" style="float:left; width: 72px; margin-right: 20px; margin-top: 10px;" />
+
 qEngage is a Growth Bot Framework for Driving Engagement in Groups. We are planning to build bots across platforms such as telegram, line, whatsapp, reddit, slack and kakaotalk. We'll be releasing a telegram bot as a part of our alpha.
 
-![alt text](resources/logo_New.png)
-
-> The qEngage Logo
 
 ## Concept
 The qEngage concept in detail is explained in [this](https://medium.com/qengage/qengage-core-features-and-concept-map-ce063ef1185f) medium post. Here is a short explanation
