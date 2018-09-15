@@ -56,6 +56,15 @@ qEngage Bot Framework supports following commands:
 * `/award @user <amount>` - awards specified user additional tokens
 * `/deduct @user <amount>` - deduct tokens from specified user
 
+## Smart Contract Architecture
+The Smart Contract Architecture is explained in detail in the medium post [here](https://medium.com/qengage/qengage-technology-smart-contract-architecture-9aec73b01bc0)
+Here is an architecture diagram explaining the core components
+
+
+![alt text](resources/smart_contract_architecture.png)
+
+>qEngage Smart Contract Architecture
+
 ## Planned features
 
 - [ ] Additional user commands.
