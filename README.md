@@ -32,25 +32,24 @@ qEngage Bot Framework supports following commands:
 
 #### Commands that work in groups
 
-**For User**
+*For User*
 * `/tip @user <amount>`  - tip a user with specified token amount
 * `/upvote <amount>` - reply to any message in your chat. Tips the creator with specified amount.
 
 
-**For Admin**
+*For Admin*
 * `/ban @user` - ban a user from receiving tokens hence forth
 * `/unban @user` - unban a user from receiving tokens
 
 
 #### Commands that work in DMs
 
-**For User**
+*For User*
 * `/balance` - this will show your current balance
 * `/redeem <amount>` - to redeem tokens in exchange of bounty after specified date
 
 
-**For Admin**
-
+*For Admin*
 * `/set_cycle <days>` - sets redemption cycle in number of days
 * `/set_bounty <amount>` - set bounty for the specified period
 * `/set_daily_award <amount>` - sets daily award to be given to users
