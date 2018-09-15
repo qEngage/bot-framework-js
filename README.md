@@ -61,7 +61,7 @@ The Smart Contract Architecture is explained in detail in the medium post [here]
 
 #### Summary
 
-In summary, here is an architecture diagram explaining the core components. We primarily split our architecture into **Three Heirarchial Layers**. The top most is the * **BOT Code** * (telegram, for example. But is * **platform agnostic** *) Then comes the * **Redemption and Allocation Engines** * that are smart contract modules built on the blockchain. Finally we boil down to the * **Core Smart Contracts** * that we will use in the final layer.
+In summary, here is an architecture diagram explaining the core components. We primarily split our architecture into **Three Heirarchial Layers**. The top most is the * **BOT Code** * (telegram, for example. But is * **platform agnostic** *) Then comes the ***Redemption and Allocation Engines*** that are smart contract modules built on the blockchain. Finally we boil down to the * **Core Smart Contracts** * that we will use in the final layer.
 
 ![alt text](resources/smart_contract_architecture.png)
 
